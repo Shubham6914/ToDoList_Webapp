@@ -1,4 +1,4 @@
-# # Project Name  (My ToDoList Project)
+# # Project Name : My ToDoList
 
 ## Introduction
 This project is a ToDoList web application built using Python and Django. It allows users to register, create tasks, update tasks, delete tasks, and mark tasks as completed or not completed.
